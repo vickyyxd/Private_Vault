@@ -1100,3 +1100,4 @@ It combines:
 **HTML + CSS + JavaScript + Calculator Engine + Scientific Functions + Engineering Functions + Memory + Secret PIN + Photo Vault + Video Vault + Lightbox + Panic Mode + Keyboard Support + Animations**
 
 —all without a backend or database.
+Vicky
